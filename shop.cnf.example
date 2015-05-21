@@ -1,0 +1,11 @@
+[shop]
+server=127.0.0.1
+database=[db]
+user=[username]
+password=[password]
+prefix=ps_
+cookie_key=n19Phkn5XviV4H8x5rYcsaBZWTdZxFyhMvmR3A91HuguCV9vd3D2nx5O
+cookie_iv=QZXwpatn
+id_shop=1
+domain=dev-garant.nu:82
+domain_ssl=dev-garant.nu:82

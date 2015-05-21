@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,eAAgB;EACf,WAAW,EAAE,IAAI;EACjB,wBAAS;IACR,UAAU,EAAE,IAAI;IAChB,aAAa,EAAE,IAAI;IACnB,iCAAS;MACR,aAAa,EAAE,IAAI",
+"sources": ["../../../../sass/modules/blocktopmenu/css/blocktopmenu.scss"],
+"names": [],
+"file": "blocktopmenu.css"
+}
