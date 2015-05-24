@@ -1,0 +1,21 @@
+#az_home_cat_block {
+	margin-bottom: 40px;
+}
+
+#az_home_cat_block > div {
+	margin-bottom: 20px;
+}
+
+.az_home_cat_img img {
+	height: 200px;
+	width: 100%;
+	border: 1px solid #e1e1e1;
+}
+
+.az_home_cat_title {
+	text-align: center;
+	text-transform: uppercase;
+	color: #005748;
+	font: 600 21px/24px "Open Sans", sans-serif;
+	margin-bottom: 10px;
+}

@@ -33,7 +33,7 @@ class BlockCategories extends Module
 	{
 		$this->name = 'blockcategories';
 		$this->tab = 'front_office_features';
-		$this->version = '2.8.8';
+		$this->version = '2.8.9';
 		$this->author = 'PrestaShop';
 
 		$this->bootstrap = true;
@@ -405,7 +405,7 @@ class BlockCategories extends Module
 							array(
 								'id' => 'current_parent',
 								'value' => 3,
-								'label' => $this->l('Current category, unless it has no subcategories, then parent one')
+								'label' => $this->l('Current category, unless it has no subcategories, in which case the parent category of the current category is used')
 							),
 						)
 					),

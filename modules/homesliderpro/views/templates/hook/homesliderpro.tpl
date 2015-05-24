@@ -164,5 +164,5 @@
 	</script>
 {/if}
 </div>
-<div id="homesliderpro_shadow"></div>
+<div class="row" id="homesliderpro_shadow"></div>
 <!-- /Module SlidersEverywhere -->

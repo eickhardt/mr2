@@ -752,6 +752,8 @@ class HomeSliderPro extends Module
 		return $this->generalHook('displayRightColumnProduct');
 	}
 	public function hookdisplayTopColumn($params) {
+		if ('index' != $this->context->controller->php_self)
+    		return false;
 		return $this->generalHook('displayTopColumn');
 	}
 	public function hookDisplayHomeTabContent($params) {	

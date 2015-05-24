@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>azhomecat</name>
+	<displayName><![CDATA[Az Homepage Categories]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Small mod that allows for categories to be shown on the home page, in the top column.]]></description>
+	<author><![CDATA[Azenty - Daniel Eickhardt]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
