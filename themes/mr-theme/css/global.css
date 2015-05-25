@@ -8314,7 +8314,8 @@ div.star.star_hover:after {
   background: #333; }
   #page .header-container #header {
     background: none; }
-#page .columns-container {
+
+#index #page .columns-container {
   background: url(/img/background_gray.png);
   background-position: 0px -160px;
   background-repeat: no-repeat; }

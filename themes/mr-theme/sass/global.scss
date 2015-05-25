@@ -3625,6 +3625,13 @@ div.star.star_hover {
 		}
 	}
 	.columns-container {
+		// background: url(/img/background_gray.png);
+		// background-position: 0px -160px;
+		// background-repeat: no-repeat;
+	}
+}
+#index #page {
+	.columns-container {
 		background: url(/img/background_gray.png);
 		background-position: 0px -160px;
 		background-repeat: no-repeat;
