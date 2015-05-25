@@ -5,7 +5,7 @@
 			Skjorter
 		</div>
 		<div class="az_home_cat_img">
-			<a href="http://dev-mr2.dk/da/3-herretoj">
+			<a href="/index.php?id_category=3&controller=category&id_lang=1">
 				<img class="img-responsive" src="/img/categories/skjorter.jpg" alt="Skjorter">
 			</a>
 		</div>
@@ -15,7 +15,7 @@
 			Jeans
 		</div>
 		<div class="az_home_cat_img">
-			<a href="http://dev-mr2.dk/da/3-herretoj">
+			<a href="/index.php?id_category=3&controller=category&id_lang=1">
 				<img class="img-responsive" src="/img/categories/jeans.jpg" alt="Jeans">
 			</a>
 		</div>
@@ -25,7 +25,7 @@
 			Frakker
 		</div>
 		<div class="az_home_cat_img">
-			<a href="http://dev-mr2.dk/da/3-herretoj">
+			<a href="/index.php?id_category=3&controller=category&id_lang=1">
 				<img class="img-responsive" src="/img/categories/frakker.jpg" alt="Frakker">
 			</a>
 		</div>
