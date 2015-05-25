@@ -8439,7 +8439,7 @@ div.star.star_hover:after {
 
 #collaborators_row {
   position: relative;
-  margin: 20px -500px 40px -500px;
+  margin: 60px -500px 60px -500px;
   background: #333;
   width: initial;
   height: 105px;
@@ -8508,8 +8508,7 @@ div.star.star_hover:after {
       height: 66px; } }
 
 #custom_frontpage_content {
-  color: #555454; }
-  #custom_frontpage_content #first_paragraph {
-    margin-bottom: 20px; }
+  color: #555454;
+  margin: 20px 0; }
 
 /*# sourceMappingURL=global.css.map */
