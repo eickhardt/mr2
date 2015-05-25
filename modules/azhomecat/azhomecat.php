@@ -70,6 +70,9 @@ class AzHomeCat extends Module
      */
     public function hookDisplayTopColumn($params)
     {
+        if ('index' != $this->context->controller->php_self)
+            return false;
+        
         $this->context->smarty->assign(array(
             'my_module_name' => Configuration::get('AZ_HOME_CAT_NAME')
         ));
